@@ -1,2 +1,3 @@
 # mla_info
-telangana mla info
+
+>Telangana MLA(2023) info including address, contact details 
